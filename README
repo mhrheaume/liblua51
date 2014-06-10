@@ -1,0 +1,7 @@
+liblua51, (C) 2014 Matthew Rheaume
+==================================
+
+These files contain D bindings for liblua, version 5.1.X. Basic functionality
+has been tested under Linux.
+
+These files are licensed under the same license as liblua.
